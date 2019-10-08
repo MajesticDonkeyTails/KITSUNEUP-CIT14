@@ -1,0 +1,15 @@
+
+body {
+	backgroud-color: Green;
+}
+
+p {
+	color: Black;
+}
+li{
+			float: right;
+			color; black;
+			padding: 5px 16px;
+			font-size: 20px;
+			display: block;
+		}
